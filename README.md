@@ -29,4 +29,4 @@ serve -s build
 - npm >= 5.6
 - serve >= 11.3.0 (for hosting build)
 
-N.B. run `npm install` to install project specific before running the commands above
+N.B. run `npm install` to install project specific dependencies before running the commands above
