@@ -27,3 +27,6 @@ serve -s build
 ### Dependencies
 - Node >= 8.10
 - npm >= 5.6
+- serve >= 11.3.0 (for hosting build)
+
+N.B. run `npm install` to install project specific before running the commands above
